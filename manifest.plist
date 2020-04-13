@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/xiaoxindihua/iOSTest/raw/master/BlingHour%20appstore.ipa</string>
+					<string>https://github.com/xiaoxindihua/iOSTest/raw/master/BlingHourappstore.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://luoxin.in/app/images.57x57.png</string>
+					<string>https://raw.githubusercontent.com/xiaoxindihua/iOSTest/master/images.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://luoxin.in/app/images.512x512.png</string>
+					<string>https://raw.githubusercontent.com/xiaoxindihua/iOSTest/master/images.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
